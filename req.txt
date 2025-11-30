@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+faiss-cpu
+neo4j
+sentence-transformers
+GPT4All
+python-multipart
+pydantic
